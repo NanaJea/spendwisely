@@ -7,8 +7,8 @@ const Profile = () => {
   const [bio, setBio] = useState('')
 
   const handleSave = () => {
-    // Mettre à jour le profil de l'utilisateur
-    // Update user profile
+    // FR Mettre à jour le profil de l'utilisateur
+    // EN Update user profile
   }
 
   if (!session) {

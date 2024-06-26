@@ -27,8 +27,8 @@ const Settings = () => {
             className="w-full p-2 border rounded"
           />
         </div>
-        {/* Ajoutez d'autres paramètres ici
-        Add more parameters here */}
+        {/* FR Ajoutez d'autres paramètres ici
+        EN Add more parameters here */}
       </div>
     </div>
   );

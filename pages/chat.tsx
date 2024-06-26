@@ -7,8 +7,8 @@ const Chat = () => {
   const [messages, setMessages] = useState<string[]>([]);
 
   const handleSendMessage = () => {
-    // Ajouter la logique pour envoyer le message au backend
-    // Add the logic to send the message to the backend
+    // FR Ajouter la logique pour envoyer le message au backend
+    // EN Add the logic to send the message to the backend
     setMessages([...messages, message]);
     setMessage('');
   };

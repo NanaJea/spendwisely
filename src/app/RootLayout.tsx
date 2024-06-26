@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import '../src/globals.css';
+import '@/src/styles/globals.css'; // FR Chemin relatif complet depuis src/styles
+// EN Full relative path from src/styles
 
 const inter = Inter({ subsets: ["latin"] });
 
