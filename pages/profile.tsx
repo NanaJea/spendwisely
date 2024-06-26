@@ -8,6 +8,7 @@ const Profile = () => {
 
   const handleSave = () => {
     // Mettre à jour le profil de l'utilisateur
+    // Update user profile
   }
 
   if (!session) {

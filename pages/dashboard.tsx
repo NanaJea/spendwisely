@@ -10,7 +10,9 @@ const Dashboard = () => {
   return (
     <div className="container mx-auto">
       <h1 className="text-2xl font-bold my-5">Dashboard</h1>
-      {/* Ajouter des composants pour les dépenses, les graphiques, etc. */}
+      {/* Ajouter des composants pour les dépenses, les graphiques, etc. 
+      
+      /* Add components for expenses, graphics, etc. */}
     </div>
   )
 }

@@ -7,6 +7,7 @@ const SignUp = () => {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     // Handle user registration logic here
+    // Gérer la logique d'enregistrement de l'utilisateur ici
   }
 
   return (
