@@ -15,6 +15,7 @@ export default NextAuth({
         }
 
         // Remplacez par votre logique d'authentification réelle
+        // Replace with your real authentication logic
         const user = { id: '1', name: 'John Doe', email: 'john@example.com' };
 
         if (credentials.email === 'john@example.com' && credentials.password === 'password') {
